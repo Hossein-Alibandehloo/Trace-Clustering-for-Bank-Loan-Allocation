@@ -67,10 +67,10 @@ In Cluster 3, activities were evenly distributed across the 11 cases. The first 
 
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 5px;">
-    <img src="Charts\Clusters\3_1.png" width="100%">
+    <img src="Charts\Clusters\3_1.png" width="45%">
   </div>
   <div>
-    <img src="Charts\Clusters\3_2.png" width="100%">
+    <img src="Charts\Clusters\3_2.png" width="45%">
   </div>
 </div>
 
@@ -79,10 +79,10 @@ In this cluster, the 'Review and Feedback' activity was repeated almost twice as
 
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 5px;">
-    <img src="Charts\Clusters\7_1.png" width="100%">
+    <img src="Charts\Clusters\7_1.png" width="45%">
   </div>
   <div>
-    <img src="Charts\Clusters\7_2.png" width="100%">
+    <img src="Charts\Clusters\7_2.png" width="45%">
   </div>
 </div>
 
@@ -91,10 +91,10 @@ With an average process time of 167 days, this cluster included only 2 cases. Al
 
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 5px;">
-    <img src="Charts\Clusters\6_1.png" width="100%">
+    <img src="Charts\Clusters\6_1.png" width="45%">
   </div>
   <div>
-    <img src="Charts\Clusters\6_2.png" width="100%">
+    <img src="Charts\Clusters\6_2.png" width="45%">
   </div>
 </div>
 
@@ -103,10 +103,10 @@ This cluster featured the most extended time spent on the payment notification a
 
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 5px;">
-    <img src="Charts\Clusters\1_1.png" width="100%">
+    <img src="Charts\Clusters\1_1.png" width="45%">
   </div>
   <div>
-    <img src="Charts\Clusters\1_2.png" width="100%">
+    <img src="Charts\Clusters\1_2.png" width="45%">
   </div>
 </div>
 
@@ -115,10 +115,10 @@ Similar to Cluster 5, this cluster had only two activities and two cases. The ac
 
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 5px;">
-    <img src="Charts\Clusters\4_1.png" width="100%">
+    <img src="Charts\Clusters\4_1.png" width="45%">
   </div>
   <div>
-    <img src="Charts\Clusters\4_2.png" width="100%">
+    <img src="Charts\Clusters\4_2.png" width="45%">
   </div>
 </div>
 
@@ -127,10 +127,10 @@ This cluster, containing only one case, involved 16 distinct activities, most of
 
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 5px;">
-    <img src="Charts\Clusters\2_1.png" width="100%">
+    <img src="Charts\Clusters\2_1.png" width="45%">
   </div>
   <div>
-    <img src="Charts\Clusters\2_2.png" width="100%">
+    <img src="Charts\Clusters\2_2.png" width="45%">
   </div>
 </div>
 
