@@ -1,4 +1,4 @@
-# Trace Clustering for Bank Loan Allocation
+# Trace Clustering for Bank Loan Allocation Process
 
 ## Introduction
 To evaluate and categorize existing processes in the loan allocation procedure, we employed three clustering algorithms: K-Means, K-Modes, and Hierarchical Clustering. We utilized the Silhouette index as an evaluation metric for clustering quality across all methods. Additionally, for Hierarchical Clustering, the Cophenetic Correlation Coefficient (CPCC) was used to select the best merging method. The results indicated that all three methods identified 7 clusters as the optimal number, with a Silhouette score of 0.98.
