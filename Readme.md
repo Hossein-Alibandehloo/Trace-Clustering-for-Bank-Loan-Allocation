@@ -55,10 +55,10 @@ This cluster consists of two activities: the payment information activity took a
 
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 5px;">
-    <img src="Charts\Clusters\5_1.png" width="100%">
+    <img src="Charts\Clusters\5_1.png" width="49%">
   </div>
   <div>
-    <img src="Charts\Clusters\5_2.png" width="100%">
+    <img src="Charts\Clusters\5_2.png" width="49%">
   </div>
 </div>
 
